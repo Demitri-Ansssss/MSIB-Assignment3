@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "num": "001",
+      "name": "M416",
+      "img": "https://wstatic-prod.pubg.com/web/live/static/game-info/weapons/images/viewer/img-weapons-m416.png",
+      "type": "AR",
+      "ammo": "5.56mm"
+    },
+    {
+      "id": 2,
+      "num": "002",
+      "name": "Scar-L",
+      "img": "https://wstatic-prod.pubg.com/web/live/static/game-info/weapons/images/viewer/img-weapons-scar-l.png",
+      "type": "AR",
+      "ammo": "5.56mm"
+    },
+    {
+      "id": 3,
+      "num": "003",
+      "name": "Aug-A3",
+      "img": "https://wstatic-prod.pubg.com/web/live/static/game-info/weapons/images/viewer/img-weapons-aug_a3.png",
+      "type": "AR",
+      "ammo": "5.56mm"
+    },
+    {
+      "id": 4,
+      "num": "004",
+      "name": "AKM",
+      "img": "https://wstatic-prod.pubg.com/web/live/static/game-info/weapons/images/viewer/img-weapons-akm.png",
+      "type": "AR",
+      "ammo": "7.62mm"
+    },
+    {
+      "id": 5,
+      "num": "005",
+      "name": "Beryl M762",
+      "img": "https://wstatic-prod.pubg.com/web/live/static/game-info/weapons/images/viewer/img-weapons-beryl_m762.png",
+      "type": "AR",
+      "ammo": "7.62mm"
+    },
+    {
+      "id": 6,
+      "num": "006",
+      "name": "Groza",
+      "img": "https://wstatic-prod.pubg.com/web/live/static/game-info/weapons/images/viewer/img-weapons-groza.png",
+      "type": "AR",
+      "ammo": "7.62mm"
+    },
+    {
+      "id": 7,
+      "num": "007",
+      "name": "SLR",
+      "img": "https://wstatic-prod.pubg.com/web/live/static/game-info/weapons/images/viewer/img-weapons-slr.png",
+      "type": "DMR",
+      "ammo": "7.62mm"
+    },
+    {
+      "id": 8,
+      "num": "008",
+      "name": "SKS",
+      "img": "https://wstatic-prod.pubg.com/web/live/static/game-info/weapons/images/viewer/img-weapons-sks.png",
+      "type": "DMR",
+      "ammo": "7.62mm"
+    },
+    {
+      "id": 9,
+      "num": "009",
+      "name": "Mini-14",
+      "img": "https://wstatic-prod.pubg.com/web/live/static/game-info/weapons/images/viewer/img-weapons-mini14.png",
+      "type": "DMR",
+      "ammo": "5.56mm"
+    },
+    {
+      "id": 10,
+      "num": "010",
+      "name": "Kar-98K",
+      "img": "https://wstatic-prod.pubg.com/web/live/static/game-info/weapons/images/viewer/img-weapons-kar98k.png",
+      "type": "SR",
+      "ammo": "7.62mm"
+    },
+    {
+      "id": 11,
+      "num": "011",
+      "name": "M24",
+      "img": "https://wstatic-prod.pubg.com/web/live/static/game-info/weapons/images/viewer/img-weapons-m24.png",
+      "type": "SR",
+      "ammo": "7.62mm"
+    },
+    {
+      "id": 12,
+      "num": "012",
+      "name": "UMP45",
+      "img": "https://wstatic-prod.pubg.com/web/live/static/game-info/weapons/images/viewer/img-weapons-ump45.png",
+      "type": "SMG",
+      "ammo": "9mm"
+    },
+    {
+      "id": 13,
+      "num": "013",
+      "name": "Vector",
+      "img": "https://wstatic-prod.pubg.com/web/live/static/game-info/weapons/images/viewer/img-weapons-vector.png",
+      "type": "SMG",
+      "ammo": "9mm"
+    }
+  ]
+}
